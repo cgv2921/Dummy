@@ -1,2 +1,3 @@
 This is a change to Dummy.
 Made a fix to the name.
+Another test change.
